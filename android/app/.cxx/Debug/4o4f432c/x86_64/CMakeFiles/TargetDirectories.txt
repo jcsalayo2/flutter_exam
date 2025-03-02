@@ -1,0 +1,2 @@
+D:/Visual Studio Projects/technical/flutter_exam/android/app/.cxx/Debug/4o4f432c/x86_64/CMakeFiles/edit_cache.dir
+D:/Visual Studio Projects/technical/flutter_exam/android/app/.cxx/Debug/4o4f432c/x86_64/CMakeFiles/rebuild_cache.dir

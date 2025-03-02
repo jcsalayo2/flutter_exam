@@ -1,0 +1,4 @@
+CLIENT_ID=
+INDEX_CODEX_API=
+# Use
+# dotenv.env['VAR_NAME']
